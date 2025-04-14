@@ -3,4 +3,4 @@ The Nintendo Switch Preserve is a database Nintendo Switch games for archival pu
 
 
 ### About PreserveIDs
-Each game in The Nintendo Switch Preserve has a PreserveID which is generated from the title ID of the base game. Any DLC or updates the game has will be tied to the base games PreserveID for easy searching. PreserveIDs are unique to The Nintendo Switch Preserve and are the main way games, updates, and DLC are organized.
+Each game in The Nintendo Switch Preserve has a PreserveID which is generated from the title ID of the base game. Any DLC or updates the game has will be tied to the base games PreserveID for easy searching. PreserveIDs are unique to The Nintendo Switch Preserve and are the main way games, updates, and DLC are organized. More info can be found at the [preserve-db repository](https://github.com/switch-preserve/preserve-db).
