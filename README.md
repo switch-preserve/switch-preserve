@@ -1,3 +1,4 @@
+
 # The Nintendo Switch Preserve
 The Nintendo Switch Preserve is a database Nintendo Switch games for archival purposes. More coming in the future.
 
